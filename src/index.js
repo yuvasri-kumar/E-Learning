@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import { Provider } from "react-redux";
 import store from "./store";
 import App from "./App";
@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <ErrorBoundary>
         <Provider store={store}>
           <AuthProvider>
@@ -20,12 +20,14 @@ root.render(
           </AuthProvider>
         </Provider>
       </ErrorBoundary>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
-// Cache the app shell for repeat visits and basic offline access in production.
-if (process.env.NODE_ENV === "production" && "serviceWorker" in navigator) {
+if (
+  process.env.NODE_ENV === "production" &&
+  "serviceWorker" in navigator
+) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
       .register(`${process.env.PUBLIC_URL || ""}/service-worker.js`)

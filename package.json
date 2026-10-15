@@ -1,5 +1,6 @@
 {
   "name": "elearning-web-app",
+  "homepage": "https://yuvasri-kumar.github.io/E-Learning",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
