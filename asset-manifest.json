@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/E-Learning/static/css/main.a7e10538.css",
+    "main.js": "/E-Learning/static/js/main.6dd24acf.js",
+    "static/js/551.88dd49f0.chunk.js": "/E-Learning/static/js/551.88dd49f0.chunk.js",
+    "static/js/367.a7791e7c.chunk.js": "/E-Learning/static/js/367.a7791e7c.chunk.js",
+    "static/js/75.016cd55d.chunk.js": "/E-Learning/static/js/75.016cd55d.chunk.js",
+    "static/js/513.f8ebcc36.chunk.js": "/E-Learning/static/js/513.f8ebcc36.chunk.js",
+    "static/js/440.397e5aeb.chunk.js": "/E-Learning/static/js/440.397e5aeb.chunk.js",
+    "static/js/299.928933d1.chunk.js": "/E-Learning/static/js/299.928933d1.chunk.js",
+    "static/js/142.f61698f1.chunk.js": "/E-Learning/static/js/142.f61698f1.chunk.js",
+    "static/js/616.b6df24ba.chunk.js": "/E-Learning/static/js/616.b6df24ba.chunk.js",
+    "static/js/680.6b3e1dc9.chunk.js": "/E-Learning/static/js/680.6b3e1dc9.chunk.js",
+    "static/js/265.162a9031.chunk.js": "/E-Learning/static/js/265.162a9031.chunk.js",
+    "static/js/54.9b260ea5.chunk.js": "/E-Learning/static/js/54.9b260ea5.chunk.js",
+    "index.html": "/E-Learning/index.html",
+    "main.a7e10538.css.map": "/E-Learning/static/css/main.a7e10538.css.map",
+    "main.6dd24acf.js.map": "/E-Learning/static/js/main.6dd24acf.js.map",
+    "551.88dd49f0.chunk.js.map": "/E-Learning/static/js/551.88dd49f0.chunk.js.map",
+    "367.a7791e7c.chunk.js.map": "/E-Learning/static/js/367.a7791e7c.chunk.js.map",
+    "75.016cd55d.chunk.js.map": "/E-Learning/static/js/75.016cd55d.chunk.js.map",
+    "513.f8ebcc36.chunk.js.map": "/E-Learning/static/js/513.f8ebcc36.chunk.js.map",
+    "440.397e5aeb.chunk.js.map": "/E-Learning/static/js/440.397e5aeb.chunk.js.map",
+    "299.928933d1.chunk.js.map": "/E-Learning/static/js/299.928933d1.chunk.js.map",
+    "142.f61698f1.chunk.js.map": "/E-Learning/static/js/142.f61698f1.chunk.js.map",
+    "616.b6df24ba.chunk.js.map": "/E-Learning/static/js/616.b6df24ba.chunk.js.map",
+    "680.6b3e1dc9.chunk.js.map": "/E-Learning/static/js/680.6b3e1dc9.chunk.js.map",
+    "265.162a9031.chunk.js.map": "/E-Learning/static/js/265.162a9031.chunk.js.map",
+    "54.9b260ea5.chunk.js.map": "/E-Learning/static/js/54.9b260ea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e10538.css",
+    "static/js/main.6dd24acf.js"
+  ]
+}
