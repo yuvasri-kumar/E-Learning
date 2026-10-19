@@ -1,0 +1,5 @@
+node_modules/
+build/
+server/store.json
+server/store.json.tmp
+server/.jwt-secret
